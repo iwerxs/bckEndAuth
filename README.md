@@ -22,3 +22,6 @@
 
 - MariaDB is quicker and more secure than SQL db
 - [MariaDB](https://www.youtube.com/watch?v=9wKW61sTaaE)
+- show databases;
+- create database 'db name';
+- select * from information_schema.schemata;
